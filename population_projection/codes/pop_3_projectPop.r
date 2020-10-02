@@ -25,5 +25,5 @@ for(co in 1:length(CONFIG$regions))
 save(projections,file = 'output/projections.rdata')
 # lapply(pop, colSums)
 
-rm(N,y,co,iso,atrisk,births,mbirths,fbirths)
+rm(N,y,co,iso,atrisk,births,mbirths,fbirths,pop)
 

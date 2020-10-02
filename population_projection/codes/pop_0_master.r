@@ -12,3 +12,6 @@ source('codes/pop_2_getSexRatioBirth.r')
 
 # Project the female population for the years 2101 to 2220 
 source('codes/pop_3_projectPop.r')
+
+# Project the female birth cohort for the years 2090 to 2120 
+source('codes/pop_3_projectPop.r')
