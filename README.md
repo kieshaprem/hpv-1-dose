@@ -1,6 +1,6 @@
 # Global impact and cost-effectiveness of one-dose versus two-dose human papillomavirus vaccination schedules: a comparative modelling analysis"
 
-*Contributors: Kiesha Prem <sup>1,2</sup>*, Yoon Hong Choi <sup>3</sup>, Élodie Bénard <sup>4</sup>, Emily A Burger <sup>5,6</sup>, Liza Hadley <sup>1,7</sup>, Jean-François Laprise <sup>4</sup>, Catherine Regan <sup>5</sup>, Mélanie Drolet <sup>4</sup>, Stephen Sy <sup>5</sup>, Kaja Abbas <sup>1</sup>, Jane J Kim <sup>5</sup>, Marc Brisson <sup>4,8</sup>, Mark Jit <sup>1,3,9</sup>*
+*Contributors: Kiesha Prem <sup>1,2</sup>, Yoon Hong Choi <sup>3</sup>, Élodie Bénard <sup>4</sup>, Emily A Burger <sup>5,6</sup>, Liza Hadley <sup>1,7</sup>, Jean-François Laprise <sup>4</sup>, Catherine Regan <sup>5</sup>, Mélanie Drolet <sup>4</sup>, Stephen Sy <sup>5</sup>, Kaja Abbas <sup>1</sup>, Jane J Kim <sup>5</sup>, Marc Brisson <sup>4,8</sup>, Mark Jit <sup>1,3,9</sup>*
 
 
   *<sup>1</sup> CDepartment of Infectious Disease Epidemiology, Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, London, United Kingdom* 
