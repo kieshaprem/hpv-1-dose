@@ -28,7 +28,7 @@
 ## Background
 To eliminate cervical cancer as a public health problem, WHO currently recommends all countries to routinely vaccinate adolescent girls with two doses of the human papillomavirus (HPV) vaccine prior to sexual debut. However, many countries have yet to implement national HPV vaccination programmes because of financial or logistical barriers of delivering two doses outside the infant immunisation programme. These barriers motivate our research into comparing the impact and cost-effectiveness of one-dose versus two-dose vaccination schedules in 192 countries.
 
-## Study objective
+## Study objective and methods
 To estimate the long-term health benefits and cost-effectiveness of one-dose versus two-dose HPV vaccination, in 192 countries, assuming that one dose of the vaccine gives either a shorter duration of full protection (20 or 30 years) or lifelong protection but lower vaccine efficacy (80%) compared to two doses. 
 
 First, we synthesised the long-term population-wide impact of vaccination on cervical cancer incidence by age and time predicted by three independent dynamic HPV transmission models across nine countries. Then, we extrapolate these effects to the remaining countries in the world using a static model. We simulated routine vaccination with the 9-valent HPV vaccine in 10-year-old girls at 80% coverage for the years 2021–2120, with a one-year catch-up of 80% 11–14-year-old girls on the first year of the programme.
