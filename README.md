@@ -22,9 +22,6 @@
   *<sup>9</sup> School of Public Health, University of Hong Kong, Hong Kong Special Administrative Region, China* 
 
 
-  *<sup>3</sup> Modelling and Economics Unit, National Infection Service, Public Health England, London, United Kingdom* 
-
-
 ## Background
 To eliminate cervical cancer as a public health problem, WHO currently recommends all countries to routinely vaccinate adolescent girls with two doses of the human papillomavirus (HPV) vaccine prior to sexual debut. However, many countries have yet to implement national HPV vaccination programmes because of financial or logistical barriers of delivering two doses outside the infant immunisation programme. These barriers motivate our research into comparing the impact and cost-effectiveness of one-dose versus two-dose vaccination schedules in 192 countries.
 
